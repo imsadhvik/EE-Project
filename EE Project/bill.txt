@@ -1,0 +1,37 @@
+---------------E-BUS ROAD TRANSPORT CORPORATION HYDERABAD---------------
+--------------------------E-BUS TICKET--------------------------
+----------------------RESERVATION VOUCHER----------------------
+Ticket No : 658201 
+From : Hyderabad ----------------------------> To : delhi
+No. of Seats : 3                               Depart On : 12-06-2023
+Start time at the origin : 23
+Status : CONFIRMED
+
+Passenger Details : 
+|  passenger name  |  age  |  gender  |  price   |
+|        sd        |  19   |   male   |  5775.0  |
+|       lll        |  20   |  female  |  5775.0  |
+|        oo        |  10   |   male   |  4125.0  |
+
+---------Fare Details-----------
+Basic Fare (+) : 15675.0 Rupees
+Service Fare (+) : 20 Rupees 
+Reservation Fee (+) : 50 Rupees
+Toll Fee (+) : 40 Rupees
+Concession Amount (-) : 0.00 Rupees
+Total Fare : 15785.0
+-----------------------------------
+
+--------------------------IMPORTANT--------------------------
+-->The seat(s) booked under this ticket is/are not transferable.
+-->This ticket is valid only for the seat number, journey date and bus service specified herein.
+-->ID cards (Driving License, Election Card, Ration Card etc) would be compulsorily required for travelling.
+-->Please show the ticket at the time of checking.
+-->For e-Ticketing/Refund Related Queries/ Service Cancelled refunds to E-Mail: support@e-bustransport.com
+-->Please check your ticket after it is issued,we request you to read the Terms and conditions.
+-------------------------------------------------------------
+E-BUS ROAD TRANSPORT CORPORATION
+Hyderabad - 500624 , Telangana , India .
+Telephone No : 040 30102829
+E-Bus Customer Care No : 040-61656789
+e-Mail : support@e-bustransport.com
